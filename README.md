@@ -76,7 +76,7 @@ When JOINing tables:
 * The final tables or collections that will be used in the production database.
     * Table of all songs with ranking from each website and various other characteristics
 
-![Table Example](mongotable.png)
+![Table Example](mongotable.PNG)
 
 
 ## Lessons Learned
